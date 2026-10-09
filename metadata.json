@@ -1,0 +1,6 @@
+{
+  "name": "Jac Jones",
+  "description": "Jac Jones — Portfolio and Grand Prix Racing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
